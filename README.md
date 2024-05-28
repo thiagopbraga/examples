@@ -1,6 +1,6 @@
 # Examples
 
-Exemplos a serem utilizados no proximo projeto
+Exemplos a serem utilizados nos proximos projetos
 
 ### Cores para guardar
 degrade color #8868d3
