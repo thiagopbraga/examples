@@ -30,3 +30,15 @@ Profissões digitais
 .left-\[64\%\] {
     left: 64%;
 }
+
+## Solicitações de SEO
+
+Marcações de H’s - de acordo com as palavras-chave
+As descrições estão todas iguais - nessa planilha tem os textos corretos
+Linkar favicon (link da home) - done
+Colocar canonical em todas as páginas
+Sem alt text nas imagens
+Mudar a linguagem (ta como inglês) - done
+Sem link nos “saiba mais”
+Sitemap xml
+Tem varios top 1 custo benefício (precisa ser top 1, top 2, top 3)
